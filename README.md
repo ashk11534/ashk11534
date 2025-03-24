@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashk11534" alt="ashk11534" /></a> </p>
 
-- 🌱 I’m **Odoo** developer
+- 🌱 I’m an **Odoo** developer
 
 - 💬 Ask me about **Odoo, Python, Django, JavaScript, HTML, CSS, C, C++, Java**
 
